@@ -1,9 +1,12 @@
 # Portfolio
-This portfolio details many of the projects that I have done over the past four years.
-
-There are two folders. One for the various classes, and the projects/homeworks that I accomplished in those respective classes, and the other is personal projects where I will detail personal code that I have worked out outside of school.
+This portfolio details many of the projects that I have done over my time in schooling.
 
 ## Class
 <ul>
   <li>Operating Systems</li>
+  <li>Advanced Networks</li>
+  <li>Computer Algorithms</li>
+  <li>Artificial Intelligence</li>
+  <li>Programming Languages</li>
+  <li>Databases</li>
 </ul>
