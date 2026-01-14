@@ -1,0 +1,12 @@
+[info] welcome to sbt 1.9.8 (Oracle Corporation Java 17.0.12)
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw10-Careless03\project
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-2%20Classes/Day%201/CS385/hw10-Careless03/)
+[success] Total time: 0 s, completed Apr 15, 2025, 6:14:15 PM
+CS385: hw10 (hwtest 1.0.0)
+Aden Clymer
+Data source: hw10.tests (remote)
+Begin testing kaijuTypes at Tue Apr 15 18:14:23 EDT 2025
+...................................
+Passed 35/35 tests in 1.73 seconds.
+[success] Total time: 8 s, completed Apr 15, 2025, 6:14:23 PM

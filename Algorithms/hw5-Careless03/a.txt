@@ -1,0 +1,25 @@
+[info] welcome to sbt 1.9.8 (Oracle Corporation Java 21.0.4)
+[info] loading settings for project hw5-careless03-build-build from metals.sbt ...
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw5-Careless03\project\project
+[info] loading settings for project hw5-careless03-build from metals.sbt ...
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw5-Careless03\project
+[success] Generated .bloop\hw5-careless03-build.json
+[success] Total time: 3 s, completed Feb 24, 2025, 12:01:50 AM
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-2%20Classes/Day%201/CS385/hw5-Careless03/)
+[success] Total time: 0 s, completed Feb 24, 2025, 12:01:51 AM
+CS385: hw5 (hwtest 1.0.0)
+Aden Clymer
+Data source: hw5.tests (remote)
+Begin testing whoopDeDoos (small) at Mon Feb 24 00:02:00 EST 2025
+.........................................................
+Passed 57/57 tests in 2.11 seconds.
+***** Ignoring tests for whoopDeDoos (big).
+Begin testing dogWalker (small) at Mon Feb 24 00:02:00 EST 2025
+..................................
+Passed 34/34 tests in 0.31 seconds.
+Begin testing dogWalker (big) at Mon Feb 24 00:02:00 EST 2025
+......................................................................
+......................
+Passed 92/92 tests in 0.94 seconds.
+[success] Total time: 9 s, completed Feb 24, 2025, 12:02:00 AM

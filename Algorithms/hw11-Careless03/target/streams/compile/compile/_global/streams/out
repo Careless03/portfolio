@@ -1,0 +1,72 @@
+[error] -- [E006] Not Found Error: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\hw11.scala:39:11 
+[error] 39 |      then Wall(r, c)
+[error]    |           ^^^^
+[error]    |           Not found: Wall
+[error]    |
+[error]    | longer explanation available when compiling with `-explain`
+[error] -- [E006] Not Found Error: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\hw11.scala:40:44 
+[error] 40 |      else if r % 2 != 0 && c % 2 != 0 then Node(r, c)
+[error]    |                                            ^^^^
+[error]    |                                            Not found: Node
+[error]    |
+[error]    | longer explanation available when compiling with `-explain`
+[error] -- [E006] Not Found Error: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\hw11.scala:41:11 
+[error] 41 |      else Edge(math.random())
+[error]    |           ^^^^
+[error]    |           Not found: Edge
+[error]    |
+[error]    | longer explanation available when compiling with `-explain`
+[error] -- [E172] Type Error: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\hw11.scala:42:5 
+[error] 42 |    )
+[error]    |     ^
+[error]    |     No ClassTag available for T
+[error]    |
+[error]    |     where:    T is a type variable
+[error] -- [E006] Not Found Error: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\hw11.scala:81:17 
+[error] 81 |            case Edge(weight) =>
+[error]    |                 ^^^^
+[error]    |                 Not found: Edge
+[error]    |
+[error]    | longer explanation available when compiling with `-explain`
+[error] -- [E134] Type Error: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\hw11.scala:83:24 
+[error] 83 |              neighbors.append((wr, wc, (r, c), (nr, nc), weight))
+[error]    |              ^^^^^^^^^^^^^^^^
+[error]    |None of the overloaded alternatives of method append in trait Buffer with types
+[error]    | (elems: (Int, Int, (Int, Int), (Int, Int), Double)*):
+[error]    |  scala.collection.mutable.ArrayBuffer[(Int, Int, (Int, Int), (Int, Int), Double
+[error]    |    )]
+[error]    | (elem: (Int, Int, (Int, Int), (Int, Int), Double)):
+[error]    |  scala.collection.mutable.ArrayBuffer[(Int, Int, (Int, Int), (Int, Int), Double
+[error]    |    )]
+[error]    |match arguments ((T1, T2, T3, T4, T5))
+[error]    |
+[error]    |where:    T1 is a type variable with constraint >: (wr : Int)
+[error]    |          T2 is a type variable with constraint >: (wc : Int)
+[error]    |          T3 is a type variable with constraint >: (Int, Int)
+[error]    |          T4 is a type variable with constraint >: (Int, Int)
+[error]    |          T5 is a type variable with constraint >: (weight : Any)
+[error] -- [E006] Not Found Error: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\hw11.scala:92:23 
+[error] 92 |        maze(wr)(wc) = Node(wr, wc)
+[error]    |                       ^^^^
+[error]    |                       Not found: Node
+[error]    |
+[error]    | longer explanation available when compiling with `-explain`
+[error] -- [E006] Not Found Error: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\hw11.scala:94:17 
+[error] 94 |    maze(1)(0) = Node(1, 0)
+[error]    |                 ^^^^
+[error]    |                 Not found: Node
+[error]    |
+[error]    | longer explanation available when compiling with `-explain`
+[error] -- [E006] Not Found Error: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\hw11.scala:95:31 
+[error] 95 |    maze(rows - 2)(cols - 1) = Node(rows - 2, cols - 1)
+[error]    |                               ^^^^
+[error]    |                               Not found: Node
+[error]    |
+[error]    | longer explanation available when compiling with `-explain`
+[error] -- [E006] Not Found Error: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\hw11.scala:105:13 
+[error] 105 |        case Node(row, col) => maze(i)(j) = '.'
+[error]     |             ^^^^
+[error]     |             Not found: Node
+[error]     |
+[error]     | longer explanation available when compiling with `-explain`
+[error] 12 errors found

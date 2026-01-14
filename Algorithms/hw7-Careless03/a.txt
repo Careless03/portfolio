@@ -1,0 +1,17 @@
+[info] welcome to sbt 1.9.8 (Oracle Corporation Java 17.0.12)
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw7-Careless03\project
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-2%20Classes/Day%201/CS385/hw7-Careless03/)
+[success] Total time: 1 s, completed Mar 12, 2025, 12:13:11 PM
+CS385: hw7 (hwtest 1.0.0)
+Aden Clymer
+Data source: hw7.tests (remote)
+Begin testing howManySets (small) at Wed Mar 12 12:13:20 EDT 2025
+......................................................................
+..............................
+Passed 100/100 tests in 3.18 seconds.
+Begin testing howManySets (big) at Wed Mar 12 12:13:20 EDT 2025
+......................................................................
+..............................
+Passed 100/100 tests in 0.65 seconds.
+[success] Total time: 9 s, completed Mar 12, 2025, 12:13:20 PM

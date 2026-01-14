@@ -1,0 +1,15 @@
+[info] welcome to sbt 1.9.8 (Oracle Corporation Java 21.0.4)
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS478\hw1-Careless03\project
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-2%20Classes/Day%201/CS478/hw1-Careless03/)
+[success] Total time: 0 s, completed Jan 14, 2025, 12:35:08 AM
+CS385: hw1 (hwtest 1.0.0)
+Aden Clymer
+Data source: hw1.tests (remote)
+Begin testing firstIndex at Tue Jan 14 00:35:16 EST 2025
+......................................................................
+Passed 70/70 tests in 1.70 seconds.
+Begin testing weirdMultiply at Tue Jan 14 00:35:16 EST 2025
+...............................
+Passed 31/31 tests in 0.16 seconds.
+[success] Total time: 8 s, completed Jan 14, 2025, 12:35:16 AM

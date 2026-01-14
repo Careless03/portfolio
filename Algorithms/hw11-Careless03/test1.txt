@@ -1,0 +1,58 @@
+[info] welcome to sbt 1.9.0 (Oracle Corporation Java 17.0.12)
+[info] loading settings for project hw11-careless03-build-build from metals.sbt ...
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\project\project
+[info] loading settings for project hw11-careless03-build from metals.sbt ...
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw11-Careless03\project
+[success] Generated .bloop\hw11-careless03-build.json
+[success] Total time: 3 s, completed Apr 29, 2025, 6:24:56 PM
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-2%20Classes/Day%201/CS385/hw11-Careless03/)
+Illegal command line: more arguments expected
+[success] Total time: 6 s, completed Apr 29, 2025, 6:25:03 PM
+[error] Expected letter
+[error] Expected symbol
+[error] Expected '+'
+[error] Expected '++'
+[error] Expected 'java++'
+[error] Expected 'java+'
+[error] Expected '^'
+[error] Expected '^^'
+[error] Expected '+-'
+[error] Expected 'debug'
+[error] Expected 'info'
+[error] Expected 'warn'
+[error] Expected 'error'
+[error] Expected 'addPluginSbtFile'
+[error] Expected 'sbtRebootNetwork'
+[error] Expected 'show'
+[error] Expected 'print'
+[error] Expected 'all'
+[error] Expected 'Global'
+[error] Expected '*'
+[error] Expected 'Zero'
+[error] Expected 'ThisBuild'
+[error] Expected 'ProjectRef('
+[error] Expected '{'
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected configuration ident
+[error] Expected key
+[error] Expected '__disconnectNetworkChannel'
+[error] Expected '__waitWatch'
+[error] Expected 'sbtPromptChannel'
+[error] Expected end of input.
+[error] Expected 'sbtRebootImpl'
+[error] Expected 'early('
+[error] Expected '-'
+[error] Expected '--'
+[error] Expected '!'
+[error] Expected 'sbtReportResult'
+[error] Expected 'sbtMapExec'
+[error] Expected 'sbtCompleteExec'
+[error] Expected '__failWatch'
+[error] Expected '__preWatch'
+[error] Expected '__postWatch'
+[error] Expected '__runWatch'
+[error] Expected '__stopWatch'
+[error] 7
+[error] ^

@@ -1,0 +1,20 @@
+[info] welcome to sbt 1.9.8 (Oracle Corporation Java 17.0.12)
+[info] loading settings for project hw8-careless03-build-build from metals.sbt ...
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw8-Careless03\project\project
+[info] loading settings for project hw8-careless03-build from metals.sbt ...
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-2 Classes\Day 1\CS385\hw8-Careless03\project
+[success] Generated .bloop\hw8-careless03-build.json
+[success] Total time: 4 s, completed Mar 30, 2025, 3:21:20 PM
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-2%20Classes/Day%201/CS385/hw8-Careless03/)
+[success] Total time: 0 s, completed Mar 30, 2025, 3:21:21 PM
+CS385: hw8 (hwtest 1.0.0)
+Aden Clymer
+Data source: hw8.tests (remote)
+Begin testing reverse1 at Sun Mar 30 15:21:28 EDT 2025
+..........................................
+Passed 42/42 tests in 1.59 seconds.
+Begin testing reverse2 at Sun Mar 30 15:21:28 EDT 2025
+..........................................
+Passed 42/42 tests in 0.25 seconds.
+[success] Total time: 7 s, completed Mar 30, 2025, 3:21:28 PM
