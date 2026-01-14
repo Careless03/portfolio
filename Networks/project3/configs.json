@@ -1,0 +1,12 @@
+{
+    "source_address" : "127.0.0.1",
+    "destination_address" : "127.0.0.1",
+    "message_files" : ["message.txt","message2.txt"],
+    "maximum_message_size" : 80,
+    "maximum_message_id" : ???,
+    "shared_key" : "ZM8EdKo45T52Cj_uW9fQv_MQaUUZbcief7rUKtFnSig=",
+    "ICMP_type" : ???,
+    "ICMP_code" : ???,
+    "Protocol" : ???,
+    "timeout" : 10
+}
