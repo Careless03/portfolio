@@ -1,93 +1,74 @@
 # West Point Coding Portfolio
 
-This repository is a curated portfolio of coursework and projects completed at West Point. It is organized by course area, with each folder containing assignments, reports, code, and supporting assets.
+This repository is a portfolio of coursework and projects completed at West Point. It is organized by course area. Each folder below lists what that project or homework accomplishes in plain language.
 
-## Structure at a glance
-- `Algorithms/`: Scala-based homework sets for algorithms.
-- `Artificial Intelligence/`: Pacman projects, search, inference, and reinforcement learning, plus a Lunar Lander DQN project.
-- `Basic Python Problem Sets/`: Intro Python problem sets and supporting data files.
-- `Building_a_Game/`: Scala-based treasure hunt game project.
-- `Databases/`: Django web app project and database backup.
-- `Networks/`: Networking projects (UDP pinger, web server, Scapy/ICMP work).
-- `Programming Languages/`: Scala assignments and language-related homework.
+## At a glance
+- `Algorithms/`: Weekly Scala homework sets focused on algorithm problem solving.
+- `Artificial Intelligence/`: Search, inference, and reinforcement learning projects (Pacman and Lunar Lander).
+- `Basic Python Problem Sets/`: Intro Python exercises with small datasets and writeups.
+- `Building_a_Game/`: A turn-based Treasure Hunt game built in Scala.
+- `Databases/`: A Django web app and a database snapshot.
+- `Networks/`: UDP pinger, web server, and Scapy/ICMP projects.
+- `Programming Languages/`: Scala assignments for language concepts and tooling.
 
-## Common file types and tooling
-- `*.scala`: Scala solutions or project source code.
-- `build.sbt`, `project/`, `.scalafmt.conf`: SBT build configuration and formatting rules.
-- `*.tests`, `root.json`, `sbt.json`, `bloop.settings.json`, `.metals/`: Autograder, SBT, Bloop, and IDE metadata.
-- `target/`, `__pycache__/`, `*.pyc`: Build or bytecode artifacts.
-- `*.zip`: Turn-in bundles or provided starter files.
-- `*.pdf`, `*.docx`: Reports, writeups, or assignment directions.
-
-## Detailed contents
+## Projects by course
 
 ### Algorithms
-Each `hw*-Careless03/` folder contains an SBT project with a main Scala solution file and supporting data.
-- `hw1-Careless03/`: `hw1.scala`, `a.txt` input, SBT config, `README.md`, and IDE metadata; includes a `bash.exe.stackdump` log.
-- `hw2-Careless03/`: `hw2.scala`, `a.txt`, SBT config, tests, and IDE metadata.
-- `hw3-Careless03/`: `hw3.scala`, `a.txt`, `analysis.pdf`, SBT config, tests, and IDE metadata.
-- `hw4-Careless03/`: `hw4.scala`, `a.txt`, SBT config, tests, and IDE metadata.
-- `hw5-Careless03/`: `hw5.scala`, `a.txt`, SBT config, tests, and IDE metadata.
-- `hw6-Careless03/`: `hw6.scala`, `a.txt`, SBT config, tests, and IDE metadata.
-- `hw7-Careless03/`: `hw7.scala`, `a.txt`, SBT config, tests, and IDE metadata.
-- `hw8-Careless03/`: `hw8.scala`, `a.txt`, SBT config, tests, and IDE metadata.
-- `hw9-Careless03/`: `hw9.scala`, `a.txt`, SBT config, tests, and IDE metadata.
-- `hw10-Careless03/`: `hw10.scala`, `a.txt`, SBT config, tests, and IDE metadata.
-- `hw11-Careless03/`: `hw11.scala`, maze or grid inputs (`7x15.txt`, `15x31.txt`, `23x57.txt`, `test1.txt`), SBT config, and `turnin_hw11.zip`.
+Each folder is a standalone Scala homework project with a main solution file, inputs, and tests.
+- `hw1-Careless03/`: Implements core algorithms (binary search, fast multiplication), tree traversals (BFS/DFS), and classic graph algorithms (Kruskal/Prim MST, Dijkstra) with a small demo runner.
+- `hw2-Careless03/`: Balances groups across a fixed number of tables by binary-searching the smallest feasible table size; merges date ranges to count total reserved days.
+- `hw3-Careless03/`: Two binary search variants (index-based and list-chopping) with accompanying analysis.
+- `hw4-Careless03/`: Computes the minimum number of rooms needed for overlapping reservations; dynamic approach to maximize donations without taking conflicting entries.
+- `hw5-Careless03/`: Brute-force longest alternating up/down subsequence (wiggle-like) from elevation data; weighted interval scheduling to maximize dog-walking pay.
+- `hw6-Careless03/`: Counts grid paths with obstacles and limited wall breaches; finds the largest all-1 square in a terrain grid.
+- `hw7-Careless03/`: Determines the maximum number of complete card sets possible using sorting, prefix sums, and binary search.
+- `hw8-Careless03/`: Reverses a mutable list in two ways (stack-based and pointer reversal).
+- `hw9-Careless03/`: Implements lookup and insertion for a 2-3 search tree, including split/merge logic.
+- `hw10-Careless03/`: Deduces creature types from battle outcomes using a union-find encoding of type relationships.
+- `hw11-Careless03/`: Generates a random maze by treating walls as weighted edges and carving passages via Kruskal's algorithm.
 
 ### Artificial Intelligence
-- `DFS_BFS_Practice/`: Intro search practice with `addition.py`, `buyLotsOfFruit.py`, `shopSmart.py`, and autograder/test utilities.
-- `Lunar_Landing_Project/`: DQN-based RL for Lunar Lander (`dqn.py`, `eval_dqn.py`, `QNetwork.py`, `requirements.txt`); `Clymer/` contains a run directory and copies of the model code; `Clymer.zip` is the submission bundle.
-- `Pacman_A_Star_Search/`: Pacman search project with `search.py`, `searchAgents.py`, `pacman.py`, layouts (`*.lay`), `test_cases/`, and command scripts; `Clymer_Project1.zip` is the submission bundle.
-- `Pacman_Advesarial_Search/`: Minimax/alpha-beta project with `multiAgents.py`, Pacman engine files, layouts, and `CLYMER_CS486_PROJECT 2.pdf` writeup; `clymer.zip` is the submission bundle.
-- `Pacman_Inference_Learning/`: Ghost tracking and inference project with `inference.py`, `busters.py`, agent files, layouts, and test classes.
-- `Pacman_Self_Learning/`: Reinforcement learning project with `qlearningAgents.py`, `valueIterationAgents.py`, `analysis.py`, Gridworld utilities, and layouts; `Clymer/` contains solution copies.
+- `DFS_BFS_Practice/`: Practice with search basics (depth-first and breadth-first), plus autograder support.
+- `Lunar_Landing_Project/`: Deep Q-Network (DQN) agent trained to solve Lunar Lander; includes evaluation script and model code.
+- `Pacman_A_Star_Search/`: A* search and heuristic work in the Pacman environment.
+- `Pacman_Advesarial_Search/`: Adversarial Pacman agents using minimax and alpha-beta style search.
+- `Pacman_Inference_Learning/`: Probabilistic inference and ghost tracking in Pacman.
+- `Pacman_Self_Learning/`: Reinforcement learning in Pacman with Q-learning and value iteration.
 
 ### Basic Python Problem Sets
-- `ps01/`: `light_time.py`, `monthly_payment.py`, `spell_out_time.py`.
-- `ps02/`: `aden_clymer_ps02_H.py`.
-- `ps03/`: `aden_clymer_ps03_H.py`.
-- `ps04/`: `aden_clymer_ps04_H.py` plus text inputs and logs (e.g., `elend.txt`, `server_status.log`).
-- `ps05/`: `aden_clymer_ps05_H.py` and `words.txt`.
-- `ps06/`: `ps06.py`, `playground.py`, and example inputs.
-- `ps07/`: `aden_clymer_ps07_H.py`, sample text files, and `tester.csv`.
-- `ps08/`: `aden_clymer_ps08_H.py` and `NHL_2018_test.csv`.
-- `ps09/`: `aden_clymer_ps09_H.py`, `eBook.py`, and `Untitled-1.py`.
-- Root-level coversheets are stored as `*.docx` and `*.pdf`.
+- `ps01/`: Intro Python problems on time and simple numeric calculations.
+- `ps02/`: Core Python practice problems (single-file submission).
+- `ps03/`: Core Python practice problems (single-file submission).
+- `ps04/`: File and log processing with multiple input datasets.
+- `ps05/`: Word list processing and text-based tasks.
+- `ps06/`: Multi-part problem set with example inputs and a main driver.
+- `ps07/`: Data processing using text and CSV inputs.
+- `ps08/`: Data analysis using a sports dataset CSV.
+- `ps09/`: Text processing and utility scripts (eBook and helpers).
+- Root level: assignment coversheets in PDF and DOCX format.
 
 ### Building_a_Game
-Scala game project (Treasure Hunt) with MVC-style source code and tests.
-- `build.sbt`: SBT build definition.
-- `src/main/scala/`: Game logic and UI (`Main.scala`, `Controller.scala`, `Model.scala`, `Board.scala`, `Cell.scala`, `Player.scala`, `Tile.scala`, strategies, and view classes).
-- `src/test/scala/`: Unit tests (`LoginSecurityTest.scala`, `Menu_Test.scala`).
-- `README.md`: Game rules and player strategies.
+- `Building_a_Game/`: A Treasure Hunt game built in Scala with a board, players, movement rules, and distinct player strategies. Includes tests and a rules README.
 
 ### Databases
-Django project with an app and database backup.
-- `manage.py`: Django management entry point.
-- `final_app/`: App code (`models.py`, `views.py`, `forms.py`, `urls.py`, `tests.py`).
-- `final_proj/`: Project settings (`settings.py`, `urls.py`, `wsgi.py`, `asgi.py`).
-- `backup.sql`: Database snapshot.
-- `README.txt`: Setup and run instructions.
-- `.venv/` and `.vscode/`: Local environment and editor settings.
+- `Databases/`: A Django web app with models, forms, views, and URLs, plus a SQL backup and setup instructions.
 
 ### Networks
-- `project 1/`: UDP pinger assignment with `Project1_UDPPinger_v2_4.pdf` and `Analysis.docx`.
-- `project2/`: Web server project with Python server (`project2_server.py`, `project2_server_starter.py`), HTML pages, and `CY350_proj_webserver_part2_v3.pdf`.
-- `project3/`: Scapy/ICMP project with `scapy_client_starter.py`, `scapy_icmp_server_standalone`, and message/config files.
-- `project3_2/`: `part2_starter_files.zip` provided starter pack.
+- `project 1/`: UDP pinger assignment and analysis writeup.
+- `project2/`: A small web server with test pages and a project writeup.
+- `project3/`: Scapy-based ICMP client/server work with message and config files.
+- `project3_2/`: Starter files for a follow-on network assignment.
 
 ### Programming Languages
-Homework sets focused on Scala and language tooling.
-- `hw1-Careless03/`: `hw1.scala`, `a.txt`, SBT config, tests, and IDE metadata.
-- `hw2-Careless03/`: `hw2.txt`, `hw2results.txt`, regex checker tools (`regcheck.jar`, `regcheck.bat`, `regchk`).
-- `hw3-Clymer/`: `hw3.scala`, SBT config, and `README.md`.
-- `hw4-Clymer/`: `hw4.scala`, SBT config, tests, and IDE metadata.
-- `hw5/`: `hw5.scala`, `a.txt`, SBT config, tests, and `work_cited.pdf`.
-- `hw8/`: `hw8.scala`, `a.txt`, SBT config, and `cited-hw8.pdf`.
-- `hw10/`: `hw10.scala`, `a.txt`, SBT config, and IDE metadata.
-- `hw11/`: `hw11.scala`, `a.txt`, SBT config, tests, and IDE metadata.
-- `hw13/`: `hw13.scala`, `a.txt`, SBT config, tests, and IDE metadata.
+- `hw1-Careless03/`: Scala warm-up tasks using loops and recursion (product, max, counts, membership, last index).
+- `hw2-Careless03/`: Regex and pattern checking exercises with results and a checker tool.
+- `hw3-Clymer/`: Writes two CFGs for language constraints and implements an indexed list mapping function.
+- `hw4-Clymer/`: Parses and evaluates prefix boolean expressions; also validates input with an Option-based parser.
+- `hw5/`: Interprets a robot movement language and implements a tiny stack-based language (BabyGrok).
+- `hw8/`: Functional list transformations (expand/squish/filter), max-difference via fold, and Cartesian product pairs.
+- `hw10/`: Builds iterators for in-order search tree traversal and level-by-level binary tree traversal.
+- `hw11/`: Diagonal traversal of infinite iterators; functional dictionary implemented with closures.
+- `hw13/`: Evaluates SKI combinator expressions with a stack-based reducer.
 
 ## Notes
 This portfolio includes both source files and build artifacts (for example, `target/`, `__pycache__/`, `.metals/`). If you want a cleaned or curated version, those directories can be excluded.
