@@ -1,0 +1,2 @@
+Time and time again the word appears in this file. 
+Count all the times and return the integer 3.

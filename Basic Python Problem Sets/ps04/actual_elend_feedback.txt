@@ -1,0 +1,5 @@
+A8 Correct
+T- Wrong
+H5 Correct
+-8 Wrong
+-- Wrong

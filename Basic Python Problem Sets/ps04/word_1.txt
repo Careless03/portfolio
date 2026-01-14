@@ -1,0 +1,2 @@
+The Word appears once in this file. 
+Your function should return the integer 1.
