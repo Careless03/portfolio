@@ -1,0 +1,42 @@
+[info] welcome to sbt 1.9.8 (Oracle Corporation Java 21.0.4)
+[info] loading settings for project hw10-build-build from metals.sbt ...
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-1 Classes\Day 2\CS478\hw10\hw10\project\project
+[info] loading settings for project hw10-build from metals.sbt ...
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-1 Classes\Day 2\CS478\hw10\hw10\project
+[success] Generated .bloop\hw10-build.json
+[success] Total time: 3 s, completed Nov 8, 2024, 1:38:47 AM
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-1%20Classes/Day%202/CS478/hw10/hw10/)
+[success] Total time: 0 s, completed Nov 8, 2024, 1:38:48 AM
+[warn] -- [E029] Pattern Match Exhaustivity Warning: C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-1 Classes\Day 2\CS478\hw10\hw10\hw10.scala:45:10 
+[warn] 45 |          nodeList match
+[warn]    |          ^^^^^^^^
+[warn]    |          match may not be exhaustive.
+[warn]    |
+[warn]    |          It would fail on pattern case: List(Empty, _*)
+[warn]    |
+[warn]    | longer explanation available when compiling with `-explain`
+[warn] one warning found
+CS478: hw10 (hwtest 1.0.0)
+Aden Clymer
+Data source: hw10.tests (cached)
+Begin testing searchTreeIterator at Fri Nov 08 01:38:57 EST 2024
+.....
+Passed 5/5 tests in 1.75 seconds.
+Begin testing levelByLevel at Fri Nov 08 01:38:57 EST 2024
+.
+Test #2 *** FAILED ***
+  tree =
+    4
+  Expected answer: List(List(4))
+  Received answer: List(List())
+Test #3 *** FAILED ***
+  tree =
+    5
+     \
+      1
+  Expected answer: List(List(5), List(1))
+  Received answer: List(List())
+XXX
+Passed 1/6 tests in 0.32 seconds.
+[success] Total time: 9 s, completed Nov 8, 2024, 1:38:57 AM

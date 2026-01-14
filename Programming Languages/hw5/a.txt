@@ -1,0 +1,15 @@
+[info] welcome to sbt 1.9.8 (Oracle Corporation Java 21.0.4)
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-1 Classes\Day 2\CS478\hw5\project
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-1%20Classes/Day%202/CS478/hw5/)
+[success] Total time: 2 s, completed Sep 25, 2024, 4:13:03 PM
+CS478: hw5 (hwtest 1.0.0)
+Aden Clymer
+Data source: hw5.tests (remote)
+Begin testing robot at Wed Sep 25 16:13:12 EDT 2024
+........
+Passed 8/8 tests in 1.21 seconds.
+Begin testing babyGrok at Wed Sep 25 16:13:12 EDT 2024
+.......
+Passed 7/7 tests in 0.11 seconds.
+[success] Total time: 9 s, completed Sep 25, 2024, 4:13:12 PM

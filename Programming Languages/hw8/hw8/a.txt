@@ -1,0 +1,21 @@
+[info] welcome to sbt 1.9.8 (Oracle Corporation Java 21.0.4)
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-1 Classes\Day 2\CS478\hw8\hw8\project
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-1%20Classes/Day%202/CS478/hw8/hw8/)
+[success] Total time: 1 s, completed Oct 17, 2024, 10:54:08 PM
+CS478: hw8 (hwtest 1.0.0)
+Aden Clymer
+Data source: hw8.tests (remote)
+Begin testing expand at Thu Oct 17 22:54:18 EDT 2024
+.....
+Passed 5/5 tests in 2.46 seconds.
+Begin testing squishAndRemoveOddsAndSingletons at Thu Oct 17 22:54:18 EDT 2024
+..........
+Passed 10/10 tests in 0.23 seconds.
+Begin testing greatestDiff at Thu Oct 17 22:54:18 EDT 2024
+.........
+Passed 9/9 tests in 0.21 seconds.
+Begin testing combos at Thu Oct 17 22:54:18 EDT 2024
+......
+Passed 6/6 tests in 0.10 seconds.
+[success] Total time: 10 s, completed Oct 17, 2024, 10:54:18 PM

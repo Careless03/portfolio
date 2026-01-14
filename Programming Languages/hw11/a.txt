@@ -1,0 +1,19 @@
+[info] welcome to sbt 1.9.8 (Oracle Corporation Java 21.0.4)
+[info] loading settings for project hw11-build-build from metals.sbt ...
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-1 Classes\Day 2\CS478\hw11\project\project
+[info] loading settings for project hw11-build from metals.sbt ...
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-1 Classes\Day 2\CS478\hw11\project
+[success] Generated .bloop\hw11-build.json
+[success] Total time: 3 s, completed Nov 14, 2024, 11:28:40 PM
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-1%20Classes/Day%202/CS478/hw11/)
+[success] Total time: 1 s, completed Nov 14, 2024, 11:28:42 PM
+CS478: hw11 (hwtest 1.0.0)
+Aden Clymer
+Data source: hw11.tests (cached)
+Begin testing diagonalize at Thu Nov 14 23:28:52 EST 2024
+...
+Passed 3/3 tests in 1.75 seconds.
+Begin dictionary tests
+Passed all dictionary tests
+[success] Total time: 10 s, completed Nov 14, 2024, 11:28:52 PM

@@ -1,0 +1,12 @@
+[info] welcome to sbt 1.9.8 (Oracle Corporation Java 21.0.4)
+[info] loading project definition from C:\Users\aden.clymer\OneDrive - West Point\Classes\2025-1 Classes\Day 2\CS478\hw13\project
+[info] loading settings for project root from build.sbt ...
+[info] set current project to homeworks (in build file:/C:/Users/aden.clymer/OneDrive%20-%20West%20Point/Classes/2025-1%20Classes/Day%202/CS478/hw13/)
+[success] Total time: 1 s, completed Dec 5, 2024, 10:58:19 PM
+CS478: hw13 (hwtest 1.0.0)
+Aden Clymer
+Data source: hw13.tests (cached)
+Begin testing evaluate at Thu Dec 05 22:58:32 EST 2024
+..............
+Passed 14/14 tests in 1.89 seconds.
+[success] Total time: 13 s, completed Dec 5, 2024, 10:58:32 PM
