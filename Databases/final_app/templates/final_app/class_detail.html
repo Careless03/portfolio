@@ -1,0 +1,24 @@
+{% extends "final_app/main.html" %}
+
+{% block content %}
+<h1>{{ class.class_name }}</h1>
+<p>Instructor: {{ instructor.name }}</p>
+<p>Schedule: {{ class.schedule }}</p>
+<p>Max Capacity: {{ class.max_capacity }}</p>
+
+<h2>Members Enrolled</h2>
+<ul>
+    {% for booking in bookings %}
+        <li>{{ booking.member.name }}</li>
+    {% endfor %}
+</ul>
+
+{% if user.is_authenticated %}
+<form method="post">
+    {% csrf_token %}
+    <button type="submit">Join Class</button>
+</form>
+{% endif %}
+
+<a href="{% url 'class_list' %}">Back to Class List</a>
+{% endblock %}

@@ -1,0 +1,21 @@
+member_id,user_id,name,email,membership_type,expiration_date,attendance_record
+2,32,John Smith,john.smith@example.com,Regular,2023-12-31,"{""2023-12-01"": ""Present"", ""2023-12-02"": ""Absent""}"
+35,20,Jane Doe,jane.doe@example.com,Premium,2024-01-15,"{""2023-12-03"": ""Present"", ""2023-12-04"": ""Present""}"
+4,46,Ali ,ali@example.com,Regular,2023-11-30,"{""2023-12-05"": ""Absent""}"
+xyz789,4,  Emily Davis,,,,
+63,30,Michael O'Neal,michael.oneal@example.com,Premium, ,"{""2023-12-06"": ""Present"", ""2023-12-07"": ""Absent""}"
+13,19,Chris#Brown,chris.brown@example.com,Regular,2023-10-10,"{""2023-12-08"": ""Absent"", ""2023-12-09"": ""Present""}"
+21,9,Mary Poppins,mary.poppins@example.com,Premium,2024-03-01,
+89,21, ,not-an-email,Regular,2023-09-15,"{""2023-12-10"": ""Present""}"
+12,16,Anna!White,anna.white@example.com,Premium,2024-06-30,"{""2023-12-11"": ""Absent""}"
+50,9,,,Premium,2024-12-31,"{""2023-12-12"": ""Present"", ""2023-12-13"": ""Present""}"
+78,39,Clara  ,clara@example.com, ,2023-07-01,"{""2023-12-14"": ""Absent""}"
+73,41,George  ,george@example.com,  ,2024-05-20,"{""2023-12-15"": ""Present""}"
+25,24,Sophia,sophia@example.com,Regular,2023-08-15,"{""2023-12-16"": ""Absent""}"
+98,26,Liam$,liam@example.com,Premium,2024-11-10,"{""2023-12-17"": ""Present""}"
+72,26,Isabella@,isabella@example.com,Premium,2024-09-25,"{""2023-12-18"": ""Absent""}"
+37,18,Jackson,jackson@example.com,Regular,2023-06-05,"{""2023-12-19"": ""Present""}"
+72,22,Ava,ava@example.com,Premium,2024-02-28,"{""2023-12-20"": ""Present""}"
+65,29,Mia^^,mia@example.com,Regular,2023-04-30,"{""2023-12-21"": ""Absent""}"
+89,48,Ethan ,ethan@example.com,Premium,2024-07-20,"{""2023-12-22"": ""Present""}"
+71,21,Emma>,emma@example.com,Premium,2024-08-15,"{""2023-12-23"": ""Absent""}"

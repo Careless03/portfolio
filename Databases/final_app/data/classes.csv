@@ -1,0 +1,21 @@
+class_id,class_name,instructor_id,schedule,max_capacity
+75,Yoga Basics,15,2024-12-01,20
+93,Advanced Pilates,6,2024-12-02,15
+46,Weight Training,15,2024-12-11,25
+c1234,Cardio Blast,5,2024-12-12,30
+59,Dance Fever,16,2024-12-13,20
+63,,11,2024-12-14,10
+74,CrossFit Intro,15,2024-12-15,20
+43,Spin Class,15,2024-12-16,15
+76,Rowing,6,2024-12-17,25
+30,Meditation Hour,6,2024-12-18,30
+57,Aerobics,11,2024-12-19,20
+82,HIIT Training,20,2024-12-20,30
+5,Tai Chi,20,2024-12-21,15
+8,Boxing Fundamentals,6,2024-12-22,25
+95,Stretching 101,19,2024-12-23,20
+40,Morning Yoga,15,2024-12-24,15
+92,Evening Spin,6,2024-12-25,20
+61,Strength Mastery,19,2024-12-26,30
+26,Calisthenics,4,2024-12-27,25
+7,Balance Workshop,6,2024-12-28,10

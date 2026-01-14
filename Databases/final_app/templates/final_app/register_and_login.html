@@ -1,0 +1,29 @@
+{% extends "final_app/main.html" %}
+
+{% block content %}
+<h1>Login</h1>
+<form method="post" action="{% url 'login_or_register' %}">
+    {% csrf_token %}
+    <input type="hidden" name="action" value="login">
+    <label for="username">Username:</label>
+    <input type="text" id="username" name="username" required><br>
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required><br>
+    <button type="submit">Login</button>
+</form>
+
+<h1>Register</h1>
+<form method="post" action="{% url 'login_or_register' %}">
+    {% csrf_token %}
+    <input type="hidden" name="action" value="register">
+    <label for="new_username">Username:</label>
+    <input type="text" id="new_username" name="new_username" required><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required><br>
+    <label for="new_password">Password:</label>
+    <input type="password" id="new_password" name="new_password" required><br>
+    <label for="confirm_password">Confirm Password:</label>
+    <input type="password" id="confirm_password" name="confirm_password" required><br>
+    <button type="submit">Register</button>
+</form>
+{% endblock %}

@@ -1,0 +1,22 @@
+{% extends "final_app/main.html" %}
+
+{% block content %}
+<h1>Manage Classes</h1>
+
+<h2>Create a New Class</h2>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Create Class</button>
+</form>
+
+<h2>Existing Classes</h2>
+<ul>
+    {% for gym_class in classes %}
+    <li>
+        {{ gym_class.class_name }} - {{ gym_class.schedule }} 
+        <a href="{% url 'delete_class' gym_class.id %}" class="delete-link">Delete</a>
+    </li>
+    {% endfor %}
+</ul>
+{% endblock %}

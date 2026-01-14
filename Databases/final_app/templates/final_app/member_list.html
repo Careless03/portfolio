@@ -1,0 +1,23 @@
+{% extends "final_app/main.html" %}
+
+{% block content %}
+<h1>Your Membership</h1>
+<table>
+    <tr>
+        <th>Member ID</th>
+        <th>Name</th>
+        <th>Membership Type</th>
+        <th>Expiration Date</th>
+        <th>Attendance Record</th>
+    </tr>
+    {% for member in members %}
+    <tr>
+        <td>{{ member.id }}</td>
+        <td>{{ member.name }}</td>
+        <td>{{ member.membership_type }}</td>
+        <td>{{ member.expiration_date }}</td>
+        <td>{{ member.attendance_record }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

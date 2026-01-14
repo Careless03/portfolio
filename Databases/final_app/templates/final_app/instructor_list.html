@@ -1,0 +1,19 @@
+{% extends "final_app/main.html" %}
+
+{% block content %}
+<h1>Instructor List</h1>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Speciality</th>
+        <th>Class_schedule</th>
+    </tr>
+    {% for instructor in instructors %}
+    <tr>
+        <td>{{ instructor.name }}</td>
+        <td>{{ instructor.specialty }}</td>
+        <td>{{ instructor.class_schedule }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

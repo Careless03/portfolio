@@ -1,0 +1,150 @@
+/* Updated style.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Darken the background */
+}
+
+.sidebar {
+    width: 220px;
+    background-color: rgba(51, 51, 51, 0.9);
+    color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.sidebar h2 {
+    font-size: 1.7em;
+    margin-bottom: 20px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sidebar ul li {
+    margin: 15px 0;
+}
+
+.sidebar ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    display: inline-block;
+    text-align: center;
+    transition: box-shadow 0.3s, background-color 0.3s;
+    background-color: rgba(51, 51, 51, 0.9);
+    line-height: normal;
+}
+
+.sidebar ul li a:hover {
+    box-shadow: 0 0 15px orange;
+    background-color: rgba(255, 165, 0, 0.8);
+    text-decoration: none;
+}
+
+.main-content {
+    flex-grow: 1;
+    padding: 30px;
+    background-color: rgba(255, 255, 255, 0.85);
+    margin: 20px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+}
+
+.class-detail {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+td {
+    background-color: #fff;
+}
+
+/* Add circular buttons or icons to enhance the circular theme */
+.sidebar ul li a::before {
+    content: '\2022';
+    font-size: 1.5em;
+    color: #fff;
+    margin-right: 10px;
+    display: none;
+}
+
+button {
+    border-radius: 50%;
+    border: none;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+.class-link {
+    text-decoration: none; /* Remove underline */
+    color: black; /* Black color */
+    font-weight: bold; /* Bold text */
+}
+
+.class-link:hover {
+    text-decoration: underline; /* Optional: underline on hover */
+}
+
+.delete-link {
+    color: red;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.delete-link:hover {
+    text-decoration: underline;
+}

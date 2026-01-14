@@ -1,0 +1,36 @@
+{% extends "final_app/main.html" %}
+
+{% block content %}
+<h1>Manage Staff Access</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Staff Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for user in users %}
+        <tr>
+            <td>{{ user.username }}</td>
+            <td>{{ user.email }}</td>
+            <td>{{ user.is_staff }}</td>
+            <td>
+                <form method="post" style="display:inline;">
+                    {% csrf_token %}
+                    <input type="hidden" name="user_id" value="{{ user.id }}">
+                    {% if user.is_staff %}
+                    <button type="submit" name="action" value="revoke">Revoke Staff</button>
+                    {% else %}
+                    <button type="submit" name="action" value="grant">Grant Staff</button>
+                    {% endif %}
+                </form>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

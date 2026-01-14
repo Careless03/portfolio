@@ -1,0 +1,21 @@
+{% extends "final_app/main.html" %}
+
+{% block content %}
+<h1>Class List</h1>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Instructor</th>
+        <th>Schedule</th>
+        <th>Max_Capacity</th>
+    </tr>
+    {% for class in classes %}
+    <tr>
+        <td><a href="{% url 'class_detail' class.id %}" class="class-link">{{ class.class_name }}</a></td>
+        <td>{{ class.instructor }}</td>
+        <td>{{ class.schedule }}</td>
+        <td>{{ class.max_capacity }}</td>
+    </tr>
+    {% endfor %}
+</table>
+{% endblock %}

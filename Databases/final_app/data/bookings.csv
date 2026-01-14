@@ -1,0 +1,381 @@
+class_id,class_name,instructor_name,schedule,member_name,email,membership_type
+75,Yoga Basics,,2024-12-09,John Smith,john.smith@example.com,Regular
+75,Yoga Basics,,2024-12-09,Jane Doe,jane.doe@example.com,Premium
+75,Yoga Basics,,2024-12-09,Ali ,ali@example.com,Regular
+75,Yoga Basics,,2024-12-09,  Emily Davis,unknown@example.com,Regular
+75,Yoga Basics,,2024-12-09,Michael O'Neal,michael.oneal@example.com,Premium
+75,Yoga Basics,,2024-12-09,Chris#Brown,chris.brown@example.com,Regular
+75,Yoga Basics,,2024-12-09,Mary Poppins,mary.poppins@example.com,Premium
+75,Yoga Basics,,2024-12-09, ,not-an-email,Regular
+75,Yoga Basics,,2024-12-09,Anna!White,anna.white@example.com,Premium
+75,Yoga Basics,,2024-12-09,Clara  ,clara@example.com, 
+75,Yoga Basics,,2024-12-09,George  ,george@example.com,  
+75,Yoga Basics,,2024-12-09,Sophia,sophia@example.com,Regular
+75,Yoga Basics,,2024-12-09,Liam$,liam@example.com,Premium
+75,Yoga Basics,,2024-12-09,Isabella@,isabella@example.com,Premium
+75,Yoga Basics,,2024-12-09,Jackson,jackson@example.com,Regular
+75,Yoga Basics,,2024-12-09,Ava,ava@example.com,Premium
+75,Yoga Basics,,2024-12-09,Mia^^,mia@example.com,Regular
+75,Yoga Basics,,2024-12-09,Ethan ,ethan@example.com,Premium
+75,Yoga Basics,,2024-12-09,Emma>,emma@example.com,Premium
+93,Advanced Pilates,,2024-12-10,John Smith,john.smith@example.com,Regular
+93,Advanced Pilates,,2024-12-10,Jane Doe,jane.doe@example.com,Premium
+93,Advanced Pilates,,2024-12-10,Ali ,ali@example.com,Regular
+93,Advanced Pilates,,2024-12-10,  Emily Davis,unknown@example.com,Regular
+93,Advanced Pilates,,2024-12-10,Michael O'Neal,michael.oneal@example.com,Premium
+93,Advanced Pilates,,2024-12-10,Chris#Brown,chris.brown@example.com,Regular
+93,Advanced Pilates,,2024-12-10,Mary Poppins,mary.poppins@example.com,Premium
+93,Advanced Pilates,,2024-12-10, ,not-an-email,Regular
+93,Advanced Pilates,,2024-12-10,Anna!White,anna.white@example.com,Premium
+93,Advanced Pilates,,2024-12-10,Clara  ,clara@example.com, 
+93,Advanced Pilates,,2024-12-10,George  ,george@example.com,  
+93,Advanced Pilates,,2024-12-10,Sophia,sophia@example.com,Regular
+93,Advanced Pilates,,2024-12-10,Liam$,liam@example.com,Premium
+93,Advanced Pilates,,2024-12-10,Isabella@,isabella@example.com,Premium
+93,Advanced Pilates,,2024-12-10,Jackson,jackson@example.com,Regular
+93,Advanced Pilates,,2024-12-10,Ava,ava@example.com,Premium
+93,Advanced Pilates,,2024-12-10,Mia^^,mia@example.com,Regular
+93,Advanced Pilates,,2024-12-10,Ethan ,ethan@example.com,Premium
+93,Advanced Pilates,,2024-12-10,Emma>,emma@example.com,Premium
+46,Weight Training,,2024-12-11,John Smith,john.smith@example.com,Regular
+46,Weight Training,,2024-12-11,Jane Doe,jane.doe@example.com,Premium
+46,Weight Training,,2024-12-11,Ali ,ali@example.com,Regular
+46,Weight Training,,2024-12-11,  Emily Davis,unknown@example.com,Regular
+46,Weight Training,,2024-12-11,Michael O'Neal,michael.oneal@example.com,Premium
+46,Weight Training,,2024-12-11,Chris#Brown,chris.brown@example.com,Regular
+46,Weight Training,,2024-12-11,Mary Poppins,mary.poppins@example.com,Premium
+46,Weight Training,,2024-12-11, ,not-an-email,Regular
+46,Weight Training,,2024-12-11,Anna!White,anna.white@example.com,Premium
+46,Weight Training,,2024-12-11,Clara  ,clara@example.com, 
+46,Weight Training,,2024-12-11,George  ,george@example.com,  
+46,Weight Training,,2024-12-11,Sophia,sophia@example.com,Regular
+46,Weight Training,,2024-12-11,Liam$,liam@example.com,Premium
+46,Weight Training,,2024-12-11,Isabella@,isabella@example.com,Premium
+46,Weight Training,,2024-12-11,Jackson,jackson@example.com,Regular
+46,Weight Training,,2024-12-11,Ava,ava@example.com,Premium
+46,Weight Training,,2024-12-11,Mia^^,mia@example.com,Regular
+46,Weight Training,,2024-12-11,Ethan ,ethan@example.com,Premium
+46,Weight Training,,2024-12-11,Emma>,emma@example.com,Premium
+c1234,Cardio Blast,,2024-12-12,John Smith,john.smith@example.com,Regular
+c1234,Cardio Blast,,2024-12-12,Jane Doe,jane.doe@example.com,Premium
+c1234,Cardio Blast,,2024-12-12,Ali ,ali@example.com,Regular
+c1234,Cardio Blast,,2024-12-12,  Emily Davis,unknown@example.com,Regular
+c1234,Cardio Blast,,2024-12-12,Michael O'Neal,michael.oneal@example.com,Premium
+c1234,Cardio Blast,,2024-12-12,Chris#Brown,chris.brown@example.com,Regular
+c1234,Cardio Blast,,2024-12-12,Mary Poppins,mary.poppins@example.com,Premium
+c1234,Cardio Blast,,2024-12-12, ,not-an-email,Regular
+c1234,Cardio Blast,,2024-12-12,Anna!White,anna.white@example.com,Premium
+c1234,Cardio Blast,,2024-12-12,Clara  ,clara@example.com, 
+c1234,Cardio Blast,,2024-12-12,George  ,george@example.com,  
+c1234,Cardio Blast,,2024-12-12,Sophia,sophia@example.com,Regular
+c1234,Cardio Blast,,2024-12-12,Liam$,liam@example.com,Premium
+c1234,Cardio Blast,,2024-12-12,Isabella@,isabella@example.com,Premium
+c1234,Cardio Blast,,2024-12-12,Jackson,jackson@example.com,Regular
+c1234,Cardio Blast,,2024-12-12,Ava,ava@example.com,Premium
+c1234,Cardio Blast,,2024-12-12,Mia^^,mia@example.com,Regular
+c1234,Cardio Blast,,2024-12-12,Ethan ,ethan@example.com,Premium
+c1234,Cardio Blast,,2024-12-12,Emma>,emma@example.com,Premium
+59,Dance Fever,,2024-12-13,John Smith,john.smith@example.com,Regular
+59,Dance Fever,,2024-12-13,Jane Doe,jane.doe@example.com,Premium
+59,Dance Fever,,2024-12-13,Ali ,ali@example.com,Regular
+59,Dance Fever,,2024-12-13,  Emily Davis,unknown@example.com,Regular
+59,Dance Fever,,2024-12-13,Michael O'Neal,michael.oneal@example.com,Premium
+59,Dance Fever,,2024-12-13,Chris#Brown,chris.brown@example.com,Regular
+59,Dance Fever,,2024-12-13,Mary Poppins,mary.poppins@example.com,Premium
+59,Dance Fever,,2024-12-13, ,not-an-email,Regular
+59,Dance Fever,,2024-12-13,Anna!White,anna.white@example.com,Premium
+59,Dance Fever,,2024-12-13,Clara  ,clara@example.com, 
+59,Dance Fever,,2024-12-13,George  ,george@example.com,  
+59,Dance Fever,,2024-12-13,Sophia,sophia@example.com,Regular
+59,Dance Fever,,2024-12-13,Liam$,liam@example.com,Premium
+59,Dance Fever,,2024-12-13,Isabella@,isabella@example.com,Premium
+59,Dance Fever,,2024-12-13,Jackson,jackson@example.com,Regular
+59,Dance Fever,,2024-12-13,Ava,ava@example.com,Premium
+59,Dance Fever,,2024-12-13,Mia^^,mia@example.com,Regular
+59,Dance Fever,,2024-12-13,Ethan ,ethan@example.com,Premium
+59,Dance Fever,,2024-12-13,Emma>,emma@example.com,Premium
+63,Unnamed Class,,2024-12-14,John Smith,john.smith@example.com,Regular
+63,Unnamed Class,,2024-12-14,Jane Doe,jane.doe@example.com,Premium
+63,Unnamed Class,,2024-12-14,Ali ,ali@example.com,Regular
+63,Unnamed Class,,2024-12-14,  Emily Davis,unknown@example.com,Regular
+63,Unnamed Class,,2024-12-14,Michael O'Neal,michael.oneal@example.com,Premium
+63,Unnamed Class,,2024-12-14,Chris#Brown,chris.brown@example.com,Regular
+63,Unnamed Class,,2024-12-14,Mary Poppins,mary.poppins@example.com,Premium
+63,Unnamed Class,,2024-12-14, ,not-an-email,Regular
+63,Unnamed Class,,2024-12-14,Anna!White,anna.white@example.com,Premium
+63,Unnamed Class,,2024-12-14,Clara  ,clara@example.com, 
+63,Unnamed Class,,2024-12-14,George  ,george@example.com,  
+63,Unnamed Class,,2024-12-14,Sophia,sophia@example.com,Regular
+63,Unnamed Class,,2024-12-14,Liam$,liam@example.com,Premium
+63,Unnamed Class,,2024-12-14,Isabella@,isabella@example.com,Premium
+63,Unnamed Class,,2024-12-14,Jackson,jackson@example.com,Regular
+63,Unnamed Class,,2024-12-14,Ava,ava@example.com,Premium
+63,Unnamed Class,,2024-12-14,Mia^^,mia@example.com,Regular
+63,Unnamed Class,,2024-12-14,Ethan ,ethan@example.com,Premium
+63,Unnamed Class,,2024-12-14,Emma>,emma@example.com,Premium
+74,CrossFit Intro,,2024-12-15,John Smith,john.smith@example.com,Regular
+74,CrossFit Intro,,2024-12-15,Jane Doe,jane.doe@example.com,Premium
+74,CrossFit Intro,,2024-12-15,Ali ,ali@example.com,Regular
+74,CrossFit Intro,,2024-12-15,  Emily Davis,unknown@example.com,Regular
+74,CrossFit Intro,,2024-12-15,Michael O'Neal,michael.oneal@example.com,Premium
+74,CrossFit Intro,,2024-12-15,Chris#Brown,chris.brown@example.com,Regular
+74,CrossFit Intro,,2024-12-15,Mary Poppins,mary.poppins@example.com,Premium
+74,CrossFit Intro,,2024-12-15, ,not-an-email,Regular
+74,CrossFit Intro,,2024-12-15,Anna!White,anna.white@example.com,Premium
+74,CrossFit Intro,,2024-12-15,Clara  ,clara@example.com, 
+74,CrossFit Intro,,2024-12-15,George  ,george@example.com,  
+74,CrossFit Intro,,2024-12-15,Sophia,sophia@example.com,Regular
+74,CrossFit Intro,,2024-12-15,Liam$,liam@example.com,Premium
+74,CrossFit Intro,,2024-12-15,Isabella@,isabella@example.com,Premium
+74,CrossFit Intro,,2024-12-15,Jackson,jackson@example.com,Regular
+74,CrossFit Intro,,2024-12-15,Ava,ava@example.com,Premium
+74,CrossFit Intro,,2024-12-15,Mia^^,mia@example.com,Regular
+74,CrossFit Intro,,2024-12-15,Ethan ,ethan@example.com,Premium
+74,CrossFit Intro,,2024-12-15,Emma>,emma@example.com,Premium
+43,Spin Class,,2024-12-16,John Smith,john.smith@example.com,Regular
+43,Spin Class,,2024-12-16,Jane Doe,jane.doe@example.com,Premium
+43,Spin Class,,2024-12-16,Ali ,ali@example.com,Regular
+43,Spin Class,,2024-12-16,  Emily Davis,unknown@example.com,Regular
+43,Spin Class,,2024-12-16,Michael O'Neal,michael.oneal@example.com,Premium
+43,Spin Class,,2024-12-16,Chris#Brown,chris.brown@example.com,Regular
+43,Spin Class,,2024-12-16,Mary Poppins,mary.poppins@example.com,Premium
+43,Spin Class,,2024-12-16, ,not-an-email,Regular
+43,Spin Class,,2024-12-16,Anna!White,anna.white@example.com,Premium
+43,Spin Class,,2024-12-16,Clara  ,clara@example.com, 
+43,Spin Class,,2024-12-16,George  ,george@example.com,  
+43,Spin Class,,2024-12-16,Sophia,sophia@example.com,Regular
+43,Spin Class,,2024-12-16,Liam$,liam@example.com,Premium
+43,Spin Class,,2024-12-16,Isabella@,isabella@example.com,Premium
+43,Spin Class,,2024-12-16,Jackson,jackson@example.com,Regular
+43,Spin Class,,2024-12-16,Ava,ava@example.com,Premium
+43,Spin Class,,2024-12-16,Mia^^,mia@example.com,Regular
+43,Spin Class,,2024-12-16,Ethan ,ethan@example.com,Premium
+43,Spin Class,,2024-12-16,Emma>,emma@example.com,Premium
+76,Rowing,,2024-12-17,John Smith,john.smith@example.com,Regular
+76,Rowing,,2024-12-17,Jane Doe,jane.doe@example.com,Premium
+76,Rowing,,2024-12-17,Ali ,ali@example.com,Regular
+76,Rowing,,2024-12-17,  Emily Davis,unknown@example.com,Regular
+76,Rowing,,2024-12-17,Michael O'Neal,michael.oneal@example.com,Premium
+76,Rowing,,2024-12-17,Chris#Brown,chris.brown@example.com,Regular
+76,Rowing,,2024-12-17,Mary Poppins,mary.poppins@example.com,Premium
+76,Rowing,,2024-12-17, ,not-an-email,Regular
+76,Rowing,,2024-12-17,Anna!White,anna.white@example.com,Premium
+76,Rowing,,2024-12-17,Clara  ,clara@example.com, 
+76,Rowing,,2024-12-17,George  ,george@example.com,  
+76,Rowing,,2024-12-17,Sophia,sophia@example.com,Regular
+76,Rowing,,2024-12-17,Liam$,liam@example.com,Premium
+76,Rowing,,2024-12-17,Isabella@,isabella@example.com,Premium
+76,Rowing,,2024-12-17,Jackson,jackson@example.com,Regular
+76,Rowing,,2024-12-17,Ava,ava@example.com,Premium
+76,Rowing,,2024-12-17,Mia^^,mia@example.com,Regular
+76,Rowing,,2024-12-17,Ethan ,ethan@example.com,Premium
+76,Rowing,,2024-12-17,Emma>,emma@example.com,Premium
+30,Meditation Hour,,2024-12-18,John Smith,john.smith@example.com,Regular
+30,Meditation Hour,,2024-12-18,Jane Doe,jane.doe@example.com,Premium
+30,Meditation Hour,,2024-12-18,Ali ,ali@example.com,Regular
+30,Meditation Hour,,2024-12-18,  Emily Davis,unknown@example.com,Regular
+30,Meditation Hour,,2024-12-18,Michael O'Neal,michael.oneal@example.com,Premium
+30,Meditation Hour,,2024-12-18,Chris#Brown,chris.brown@example.com,Regular
+30,Meditation Hour,,2024-12-18,Mary Poppins,mary.poppins@example.com,Premium
+30,Meditation Hour,,2024-12-18, ,not-an-email,Regular
+30,Meditation Hour,,2024-12-18,Anna!White,anna.white@example.com,Premium
+30,Meditation Hour,,2024-12-18,Clara  ,clara@example.com, 
+30,Meditation Hour,,2024-12-18,George  ,george@example.com,  
+30,Meditation Hour,,2024-12-18,Sophia,sophia@example.com,Regular
+30,Meditation Hour,,2024-12-18,Liam$,liam@example.com,Premium
+30,Meditation Hour,,2024-12-18,Isabella@,isabella@example.com,Premium
+30,Meditation Hour,,2024-12-18,Jackson,jackson@example.com,Regular
+30,Meditation Hour,,2024-12-18,Ava,ava@example.com,Premium
+30,Meditation Hour,,2024-12-18,Mia^^,mia@example.com,Regular
+30,Meditation Hour,,2024-12-18,Ethan ,ethan@example.com,Premium
+30,Meditation Hour,,2024-12-18,Emma>,emma@example.com,Premium
+57,Aerobics,,2024-12-19,John Smith,john.smith@example.com,Regular
+57,Aerobics,,2024-12-19,Jane Doe,jane.doe@example.com,Premium
+57,Aerobics,,2024-12-19,Ali ,ali@example.com,Regular
+57,Aerobics,,2024-12-19,  Emily Davis,unknown@example.com,Regular
+57,Aerobics,,2024-12-19,Michael O'Neal,michael.oneal@example.com,Premium
+57,Aerobics,,2024-12-19,Chris#Brown,chris.brown@example.com,Regular
+57,Aerobics,,2024-12-19,Mary Poppins,mary.poppins@example.com,Premium
+57,Aerobics,,2024-12-19, ,not-an-email,Regular
+57,Aerobics,,2024-12-19,Anna!White,anna.white@example.com,Premium
+57,Aerobics,,2024-12-19,Clara  ,clara@example.com, 
+57,Aerobics,,2024-12-19,George  ,george@example.com,  
+57,Aerobics,,2024-12-19,Sophia,sophia@example.com,Regular
+57,Aerobics,,2024-12-19,Liam$,liam@example.com,Premium
+57,Aerobics,,2024-12-19,Isabella@,isabella@example.com,Premium
+57,Aerobics,,2024-12-19,Jackson,jackson@example.com,Regular
+57,Aerobics,,2024-12-19,Ava,ava@example.com,Premium
+57,Aerobics,,2024-12-19,Mia^^,mia@example.com,Regular
+57,Aerobics,,2024-12-19,Ethan ,ethan@example.com,Premium
+57,Aerobics,,2024-12-19,Emma>,emma@example.com,Premium
+82,HIIT Training,,2024-12-20,John Smith,john.smith@example.com,Regular
+82,HIIT Training,,2024-12-20,Jane Doe,jane.doe@example.com,Premium
+82,HIIT Training,,2024-12-20,Ali ,ali@example.com,Regular
+82,HIIT Training,,2024-12-20,  Emily Davis,unknown@example.com,Regular
+82,HIIT Training,,2024-12-20,Michael O'Neal,michael.oneal@example.com,Premium
+82,HIIT Training,,2024-12-20,Chris#Brown,chris.brown@example.com,Regular
+82,HIIT Training,,2024-12-20,Mary Poppins,mary.poppins@example.com,Premium
+82,HIIT Training,,2024-12-20, ,not-an-email,Regular
+82,HIIT Training,,2024-12-20,Anna!White,anna.white@example.com,Premium
+82,HIIT Training,,2024-12-20,Clara  ,clara@example.com, 
+82,HIIT Training,,2024-12-20,George  ,george@example.com,  
+82,HIIT Training,,2024-12-20,Sophia,sophia@example.com,Regular
+82,HIIT Training,,2024-12-20,Liam$,liam@example.com,Premium
+82,HIIT Training,,2024-12-20,Isabella@,isabella@example.com,Premium
+82,HIIT Training,,2024-12-20,Jackson,jackson@example.com,Regular
+82,HIIT Training,,2024-12-20,Ava,ava@example.com,Premium
+82,HIIT Training,,2024-12-20,Mia^^,mia@example.com,Regular
+82,HIIT Training,,2024-12-20,Ethan ,ethan@example.com,Premium
+82,HIIT Training,,2024-12-20,Emma>,emma@example.com,Premium
+5,Tai Chi,,2024-12-21,John Smith,john.smith@example.com,Regular
+5,Tai Chi,,2024-12-21,Jane Doe,jane.doe@example.com,Premium
+5,Tai Chi,,2024-12-21,Ali ,ali@example.com,Regular
+5,Tai Chi,,2024-12-21,  Emily Davis,unknown@example.com,Regular
+5,Tai Chi,,2024-12-21,Michael O'Neal,michael.oneal@example.com,Premium
+5,Tai Chi,,2024-12-21,Chris#Brown,chris.brown@example.com,Regular
+5,Tai Chi,,2024-12-21,Mary Poppins,mary.poppins@example.com,Premium
+5,Tai Chi,,2024-12-21, ,not-an-email,Regular
+5,Tai Chi,,2024-12-21,Anna!White,anna.white@example.com,Premium
+5,Tai Chi,,2024-12-21,Clara  ,clara@example.com, 
+5,Tai Chi,,2024-12-21,George  ,george@example.com,  
+5,Tai Chi,,2024-12-21,Sophia,sophia@example.com,Regular
+5,Tai Chi,,2024-12-21,Liam$,liam@example.com,Premium
+5,Tai Chi,,2024-12-21,Isabella@,isabella@example.com,Premium
+5,Tai Chi,,2024-12-21,Jackson,jackson@example.com,Regular
+5,Tai Chi,,2024-12-21,Ava,ava@example.com,Premium
+5,Tai Chi,,2024-12-21,Mia^^,mia@example.com,Regular
+5,Tai Chi,,2024-12-21,Ethan ,ethan@example.com,Premium
+5,Tai Chi,,2024-12-21,Emma>,emma@example.com,Premium
+8,Boxing Fundamentals,,2024-12-22,John Smith,john.smith@example.com,Regular
+8,Boxing Fundamentals,,2024-12-22,Jane Doe,jane.doe@example.com,Premium
+8,Boxing Fundamentals,,2024-12-22,Ali ,ali@example.com,Regular
+8,Boxing Fundamentals,,2024-12-22,  Emily Davis,unknown@example.com,Regular
+8,Boxing Fundamentals,,2024-12-22,Michael O'Neal,michael.oneal@example.com,Premium
+8,Boxing Fundamentals,,2024-12-22,Chris#Brown,chris.brown@example.com,Regular
+8,Boxing Fundamentals,,2024-12-22,Mary Poppins,mary.poppins@example.com,Premium
+8,Boxing Fundamentals,,2024-12-22, ,not-an-email,Regular
+8,Boxing Fundamentals,,2024-12-22,Anna!White,anna.white@example.com,Premium
+8,Boxing Fundamentals,,2024-12-22,Clara  ,clara@example.com, 
+8,Boxing Fundamentals,,2024-12-22,George  ,george@example.com,  
+8,Boxing Fundamentals,,2024-12-22,Sophia,sophia@example.com,Regular
+8,Boxing Fundamentals,,2024-12-22,Liam$,liam@example.com,Premium
+8,Boxing Fundamentals,,2024-12-22,Isabella@,isabella@example.com,Premium
+8,Boxing Fundamentals,,2024-12-22,Jackson,jackson@example.com,Regular
+8,Boxing Fundamentals,,2024-12-22,Ava,ava@example.com,Premium
+8,Boxing Fundamentals,,2024-12-22,Mia^^,mia@example.com,Regular
+8,Boxing Fundamentals,,2024-12-22,Ethan ,ethan@example.com,Premium
+8,Boxing Fundamentals,,2024-12-22,Emma>,emma@example.com,Premium
+95,Stretching 101,,2024-12-23,John Smith,john.smith@example.com,Regular
+95,Stretching 101,,2024-12-23,Jane Doe,jane.doe@example.com,Premium
+95,Stretching 101,,2024-12-23,Ali ,ali@example.com,Regular
+95,Stretching 101,,2024-12-23,  Emily Davis,unknown@example.com,Regular
+95,Stretching 101,,2024-12-23,Michael O'Neal,michael.oneal@example.com,Premium
+95,Stretching 101,,2024-12-23,Chris#Brown,chris.brown@example.com,Regular
+95,Stretching 101,,2024-12-23,Mary Poppins,mary.poppins@example.com,Premium
+95,Stretching 101,,2024-12-23, ,not-an-email,Regular
+95,Stretching 101,,2024-12-23,Anna!White,anna.white@example.com,Premium
+95,Stretching 101,,2024-12-23,Clara  ,clara@example.com, 
+95,Stretching 101,,2024-12-23,George  ,george@example.com,  
+95,Stretching 101,,2024-12-23,Sophia,sophia@example.com,Regular
+95,Stretching 101,,2024-12-23,Liam$,liam@example.com,Premium
+95,Stretching 101,,2024-12-23,Isabella@,isabella@example.com,Premium
+95,Stretching 101,,2024-12-23,Jackson,jackson@example.com,Regular
+95,Stretching 101,,2024-12-23,Ava,ava@example.com,Premium
+95,Stretching 101,,2024-12-23,Mia^^,mia@example.com,Regular
+95,Stretching 101,,2024-12-23,Ethan ,ethan@example.com,Premium
+95,Stretching 101,,2024-12-23,Emma>,emma@example.com,Premium
+40,Morning Yoga,,2024-12-24,John Smith,john.smith@example.com,Regular
+40,Morning Yoga,,2024-12-24,Jane Doe,jane.doe@example.com,Premium
+40,Morning Yoga,,2024-12-24,Ali ,ali@example.com,Regular
+40,Morning Yoga,,2024-12-24,  Emily Davis,unknown@example.com,Regular
+40,Morning Yoga,,2024-12-24,Michael O'Neal,michael.oneal@example.com,Premium
+40,Morning Yoga,,2024-12-24,Chris#Brown,chris.brown@example.com,Regular
+40,Morning Yoga,,2024-12-24,Mary Poppins,mary.poppins@example.com,Premium
+40,Morning Yoga,,2024-12-24, ,not-an-email,Regular
+40,Morning Yoga,,2024-12-24,Anna!White,anna.white@example.com,Premium
+40,Morning Yoga,,2024-12-24,Clara  ,clara@example.com, 
+40,Morning Yoga,,2024-12-24,George  ,george@example.com,  
+40,Morning Yoga,,2024-12-24,Sophia,sophia@example.com,Regular
+40,Morning Yoga,,2024-12-24,Liam$,liam@example.com,Premium
+40,Morning Yoga,,2024-12-24,Isabella@,isabella@example.com,Premium
+40,Morning Yoga,,2024-12-24,Jackson,jackson@example.com,Regular
+40,Morning Yoga,,2024-12-24,Ava,ava@example.com,Premium
+40,Morning Yoga,,2024-12-24,Mia^^,mia@example.com,Regular
+40,Morning Yoga,,2024-12-24,Ethan ,ethan@example.com,Premium
+40,Morning Yoga,,2024-12-24,Emma>,emma@example.com,Premium
+92,Evening Spin,,2024-12-25,John Smith,john.smith@example.com,Regular
+92,Evening Spin,,2024-12-25,Jane Doe,jane.doe@example.com,Premium
+92,Evening Spin,,2024-12-25,Ali ,ali@example.com,Regular
+92,Evening Spin,,2024-12-25,  Emily Davis,unknown@example.com,Regular
+92,Evening Spin,,2024-12-25,Michael O'Neal,michael.oneal@example.com,Premium
+92,Evening Spin,,2024-12-25,Chris#Brown,chris.brown@example.com,Regular
+92,Evening Spin,,2024-12-25,Mary Poppins,mary.poppins@example.com,Premium
+92,Evening Spin,,2024-12-25, ,not-an-email,Regular
+92,Evening Spin,,2024-12-25,Anna!White,anna.white@example.com,Premium
+92,Evening Spin,,2024-12-25,Clara  ,clara@example.com, 
+92,Evening Spin,,2024-12-25,George  ,george@example.com,  
+92,Evening Spin,,2024-12-25,Sophia,sophia@example.com,Regular
+92,Evening Spin,,2024-12-25,Liam$,liam@example.com,Premium
+92,Evening Spin,,2024-12-25,Isabella@,isabella@example.com,Premium
+92,Evening Spin,,2024-12-25,Jackson,jackson@example.com,Regular
+92,Evening Spin,,2024-12-25,Ava,ava@example.com,Premium
+92,Evening Spin,,2024-12-25,Mia^^,mia@example.com,Regular
+92,Evening Spin,,2024-12-25,Ethan ,ethan@example.com,Premium
+92,Evening Spin,,2024-12-25,Emma>,emma@example.com,Premium
+61,Strength Mastery,,2024-12-26,John Smith,john.smith@example.com,Regular
+61,Strength Mastery,,2024-12-26,Jane Doe,jane.doe@example.com,Premium
+61,Strength Mastery,,2024-12-26,Ali ,ali@example.com,Regular
+61,Strength Mastery,,2024-12-26,  Emily Davis,unknown@example.com,Regular
+61,Strength Mastery,,2024-12-26,Michael O'Neal,michael.oneal@example.com,Premium
+61,Strength Mastery,,2024-12-26,Chris#Brown,chris.brown@example.com,Regular
+61,Strength Mastery,,2024-12-26,Mary Poppins,mary.poppins@example.com,Premium
+61,Strength Mastery,,2024-12-26, ,not-an-email,Regular
+61,Strength Mastery,,2024-12-26,Anna!White,anna.white@example.com,Premium
+61,Strength Mastery,,2024-12-26,Clara  ,clara@example.com, 
+61,Strength Mastery,,2024-12-26,George  ,george@example.com,  
+61,Strength Mastery,,2024-12-26,Sophia,sophia@example.com,Regular
+61,Strength Mastery,,2024-12-26,Liam$,liam@example.com,Premium
+61,Strength Mastery,,2024-12-26,Isabella@,isabella@example.com,Premium
+61,Strength Mastery,,2024-12-26,Jackson,jackson@example.com,Regular
+61,Strength Mastery,,2024-12-26,Ava,ava@example.com,Premium
+61,Strength Mastery,,2024-12-26,Mia^^,mia@example.com,Regular
+61,Strength Mastery,,2024-12-26,Ethan ,ethan@example.com,Premium
+61,Strength Mastery,,2024-12-26,Emma>,emma@example.com,Premium
+26,Calisthenics,Ava,2024-12-27,John Smith,john.smith@example.com,Regular
+26,Calisthenics,Ava,2024-12-27,Jane Doe,jane.doe@example.com,Premium
+26,Calisthenics,Ava,2024-12-27,Ali ,ali@example.com,Regular
+26,Calisthenics,Ava,2024-12-27,  Emily Davis,unknown@example.com,Regular
+26,Calisthenics,Ava,2024-12-27,Michael O'Neal,michael.oneal@example.com,Premium
+26,Calisthenics,Ava,2024-12-27,Chris#Brown,chris.brown@example.com,Regular
+26,Calisthenics,Ava,2024-12-27,Mary Poppins,mary.poppins@example.com,Premium
+26,Calisthenics,Ava,2024-12-27, ,not-an-email,Regular
+26,Calisthenics,Ava,2024-12-27,Anna!White,anna.white@example.com,Premium
+26,Calisthenics,Ava,2024-12-27,Clara  ,clara@example.com, 
+26,Calisthenics,Ava,2024-12-27,George  ,george@example.com,  
+26,Calisthenics,Ava,2024-12-27,Sophia,sophia@example.com,Regular
+26,Calisthenics,Ava,2024-12-27,Liam$,liam@example.com,Premium
+26,Calisthenics,Ava,2024-12-27,Isabella@,isabella@example.com,Premium
+26,Calisthenics,Ava,2024-12-27,Jackson,jackson@example.com,Regular
+26,Calisthenics,Ava,2024-12-27,Ava,ava@example.com,Premium
+26,Calisthenics,Ava,2024-12-27,Mia^^,mia@example.com,Regular
+26,Calisthenics,Ava,2024-12-27,Ethan ,ethan@example.com,Premium
+26,Calisthenics,Ava,2024-12-27,Emma>,emma@example.com,Premium
+7,Balance Workshop,,2024-12-28,John Smith,john.smith@example.com,Regular
+7,Balance Workshop,,2024-12-28,Jane Doe,jane.doe@example.com,Premium
+7,Balance Workshop,,2024-12-28,Ali ,ali@example.com,Regular
+7,Balance Workshop,,2024-12-28,  Emily Davis,unknown@example.com,Regular
+7,Balance Workshop,,2024-12-28,Michael O'Neal,michael.oneal@example.com,Premium
+7,Balance Workshop,,2024-12-28,Chris#Brown,chris.brown@example.com,Regular
+7,Balance Workshop,,2024-12-28,Mary Poppins,mary.poppins@example.com,Premium
+7,Balance Workshop,,2024-12-28, ,not-an-email,Regular
+7,Balance Workshop,,2024-12-28,Anna!White,anna.white@example.com,Premium
+7,Balance Workshop,,2024-12-28,Clara  ,clara@example.com, 
+7,Balance Workshop,,2024-12-28,George  ,george@example.com,  
+7,Balance Workshop,,2024-12-28,Sophia,sophia@example.com,Regular
+7,Balance Workshop,,2024-12-28,Liam$,liam@example.com,Premium
+7,Balance Workshop,,2024-12-28,Isabella@,isabella@example.com,Premium
+7,Balance Workshop,,2024-12-28,Jackson,jackson@example.com,Regular
+7,Balance Workshop,,2024-12-28,Ava,ava@example.com,Premium
+7,Balance Workshop,,2024-12-28,Mia^^,mia@example.com,Regular
+7,Balance Workshop,,2024-12-28,Ethan ,ethan@example.com,Premium
+7,Balance Workshop,,2024-12-28,Emma>,emma@example.com,Premium
